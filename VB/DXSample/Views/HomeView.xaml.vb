@@ -13,14 +13,14 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace DXSample
-	''' <summary>
-	''' Interaction logic for HomeView.xaml
-	''' </summary>
-	Partial Public Class HomeView
-		Inherits UserControl
+    ''' <summary>
+    ''' Interaction logic for HomeView.xaml
+    ''' </summary>
+    Partial Public Class HomeView
+        Inherits UserControl
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+        Public Sub New()
+            InitializeComponent()
+        End Sub
+    End Class
 End Namespace

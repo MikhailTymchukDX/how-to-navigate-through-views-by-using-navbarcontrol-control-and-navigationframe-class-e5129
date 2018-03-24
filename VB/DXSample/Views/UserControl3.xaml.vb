@@ -13,14 +13,14 @@ Imports System.Windows.Navigation
 Imports System.Windows.Shapes
 
 Namespace DXSample
-	''' <summary>
-	''' Interaction logic for UserControl3.xaml
-	''' </summary>
-	Partial Public Class UserControl3
-		Inherits UserControl
+    ''' <summary>
+    ''' Interaction logic for UserControl3.xaml
+    ''' </summary>
+    Partial Public Class UserControl3
+        Inherits UserControl
 
-		Public Sub New()
-			InitializeComponent()
-		End Sub
-	End Class
+        Public Sub New()
+            InitializeComponent()
+        End Sub
+    End Class
 End Namespace
